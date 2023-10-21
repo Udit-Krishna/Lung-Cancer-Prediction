@@ -1,0 +1,4 @@
+# Lung-Cancer-Prediction
+## Prediction and Classification of Lung Cancer Using Decision Tree and VGG16 Convolutional Neural Networks
+
+A malignant abnormal growth that starts in the tissues of the lungs is called Lung Cancer. It is one of the most prevalent and fatal cancers in the world. Lung Cancer is particularly dangerous because of its aggressive nature and how quickly it can extend to other areas of the body. The model proposed by this paper assesses the patient based on a few questions about the patient's symptoms and medical background. Then, the algorithm determines whether the patient has a low, medium, or high risk of developing lung cancer by diagnosing the response using the “Decision Tree” classification at an accuracy of 99.67%. If the patient has a medium or high risk, we further validate the finding by examining the patient's CT scan image using the “VGG16” CNN model at an accuracy of 92.53%. 
